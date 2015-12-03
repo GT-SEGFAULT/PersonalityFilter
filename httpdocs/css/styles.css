@@ -1,0 +1,107 @@
+.body {
+	background-color: #afeeee;
+}
+
+.ads-top {
+	position:absolute;
+	top: 2px;
+	height: 50px;
+}
+
+.ads-bot {
+	position:absolute;
+	bottom: 2px;
+	height: 50px;
+}
+
+.prof_before {
+	position:absolute;
+	left: 0px;
+	height: 500px;
+	width: 200px;
+}
+
+.prof_after {
+	position:absolute;
+	right: 0px;
+	height: 500px;
+	width: 200px;
+}
+
+.center1 {
+	position:absolute;
+	left: 240px;
+	height: 500px;
+	width: 80px;
+}
+
+.center2 {
+	position:absolute;
+	left: 340px;
+	height: 500px;
+	width: 80px;
+}
+
+.center3 {
+	position:absolute;
+	left: 440px;
+	height: 500px;
+	width: 80px;
+}
+
+.content {
+	position:absolute;
+	width: 760px;
+	height: 500px;
+	top: 0px;
+	left: 0px;
+	background-color: #afeeee;
+}
+
+.clear_small {
+	height: 150px;
+	width: 200px;
+}
+
+.prof_picture {
+	height: 200px;
+	weidth: 200px;
+	vertical-align: middle;
+}
+
+.filter {
+	height: 80px;
+	width: 80px;
+	margin-top: 17px;
+}
+
+.arrow_left {
+	position: absolute;
+	height: 200px;
+	width: 40px;
+	left: 200px;
+	top: 150px;	
+}
+
+.arrow_right {
+	position: absolute;
+	height: 200px;
+	width: 40px;
+	left: 520px;
+	top: 150px;
+}
+
+#beforeTitle {
+	text-align: center;	
+}
+
+#afterText {
+	text-align: center;
+}
+
+#afterImage {
+	position: absolute;
+	left: 0px;
+	top: 85px;
+	z-index: 9;
+}
